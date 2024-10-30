@@ -1,0 +1,32 @@
+.App-header {
+  border-bottom: 4px solid #e0354b;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.App-header h1 {
+  color: #e0354b;
+}
+
+.App-logo {
+  width: 70%;
+}
+
+.App-body {
+  height: 30vh;
+  width: 90vw;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  border-top: 4px solid #e0354b;
+  font-style: italic;
+}
