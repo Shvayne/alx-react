@@ -1,0 +1,15 @@
+.App-header {
+  border-bottom: 4px solid #e0354b;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.App-header h1 {
+  color: #e0354b;
+}
+
+.App-logo {
+  width: 60%;
+}
